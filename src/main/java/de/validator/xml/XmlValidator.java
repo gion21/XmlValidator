@@ -6,6 +6,7 @@ public class XmlValidator {
 		// TODO Auto-generated method stub
 		System.out.println("Main");
 		System.out.println("Main2 ");
+		System.out.println("Main3");
 
 	}
 
